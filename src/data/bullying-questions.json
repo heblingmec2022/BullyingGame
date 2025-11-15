@@ -1,0 +1,1752 @@
+[
+  {
+    "id": 1,
+    "situacao": "Um colega está sendo chamado de \"burro\" por um aluno mais popular sempre que erra uma questão em grupo. O colega fica visivelmente triste e evita falar. Como você reage à zombaria repetida?",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Falar com o professor, discretamente, sobre o apelido pejorativo constante.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O professor deve intervir imediatamente e cortar atitudes de gozação e deboche em sala de aula."
+      },
+      {
+        "id": "b",
+        "texto": "Ficar quieto e parar de tentar responder às perguntas na aula para evitar que zombem de você também.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "A vítima frequentemente silencia ou evita atividades escolares por medo constante de assédios, resultando em queda no desempenho acadêmico."
+      },
+      {
+        "id": "c",
+        "texto": "Rir junto, pensando que é apenas uma \"brincadeira\" e que o colega é \"sensível demais\".",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A omissão ou o riso valida o comportamento agressivo do agressor, que busca status e poder, e ajuda a perpetuar o bullying."
+      },
+      {
+        "id": "d",
+        "texto": "Dizer ao colega que está sendo zoado para ele \"dar um soco na cara do valentão\" se ele não parar.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Reagir com agressividade física ou revide intensifica o conflito e não resolve a assimetria de poder."
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "situacao": "Você está no fundo da sala e escuta um grupo espalhando um boato mentiroso sobre a vida pessoal de um aluno mais quieto. Você sabe que o boato pode magoá-lo muito.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Procurar o orientador pedagógico para relatar o boato e quem o está espalhando.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Deve-se procurar um adulto (professor ou coordenador) para tomar providências e cortar o mal pela raiz, evitando que o assunto cresça."
+      },
+      {
+        "id": "b",
+        "texto": "Confrontar o grupo, dizendo que vai contar aos pais deles.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "A ameaça gera mais conflito e pode fazer com que o grupo agressor se volte contra você."
+      },
+      {
+        "id": "c",
+        "texto": "Fingir que não ouviu nada e se concentrar no seu material escolar.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A indiferença do espectador sustenta a posição do agressor e o desequilíbrio de poder."
+      },
+      {
+        "id": "d",
+        "texto": "Guardar a informação para si e evitar o colega que está sendo alvo do boato.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O isolamento é um comportamento típico da vítima, que se sente incapaz e sem apoio."
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "situacao": "Um aluno é constantemente ridicularizado por sua roupa simples, sendo chamado de \"pobretão\" na frente de outros. O colega começa a se isolar e a usar casaco mesmo no calor.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Ignorar a situação, já que a gozação não é com você.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O bullying por discriminação socioeconômica é uma manifestação de hierarquia social que precisa ser combatida."
+      },
+      {
+        "id": "b",
+        "texto": "Oferecer seu apoio ao colega e perguntar se ele quer ajuda para falar com a coordenação.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Oferecer apoio é crucial, pois as vítimas sentem-se sozinhas e com baixa autoestima."
+      },
+      {
+        "id": "c",
+        "texto": "Dizer que a roupa dele é \"feia mesmo\" para que ele tome jeito e se vista melhor.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor busca reforçar o estigma e a humilhação do alvo."
+      },
+      {
+        "id": "d",
+        "texto": "Ficar triste, mas evitar a convivência com o colega ridicularizado por medo de ser alvo também.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O medo de ser a próxima vítima leva o espectador (ou você, como potencial vítima) a se calar."
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "situacao": "Você é o representante de turma e percebe que, quando um colega tenta dar sua opinião, os outros riem ou debocham dele, fazendo-o calar-se.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Esperar o professor voltar para a sala e cochichar sobre quem debochou.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A intervenção deve ser rápida e a omissão permite que o desrespeito continue."
+      },
+      {
+        "id": "b",
+        "texto": "Usar o seu poder de representante para excluí-los das atividades.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Usar o poder para excluir reforça a violência relacional."
+      },
+      {
+        "id": "c",
+        "texto": "Defender o colega publicamente e exigir que os outros o respeitem.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Podar a atitude de deboche em sala de aula é essencial para interromper o início do bullying."
+      },
+      {
+        "id": "d",
+        "texto": " Desistir de falar na frente da turma, por medo de que riam de você.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Evitar falar e se isolar é um indício de sofrimento de bullying, gerado pelo medo da gozação."
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "situacao": "Um aluno com necessidades especiais (NEE) é alvo de risadas e comentários sobre sua dificuldade em se expressar durante um trabalho. Você percebe a sutileza da exclusão.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Fazer de conta que não percebeu, focando apenas no seu trabalho.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Práticas excludentes manifestam-se de forma sutil e são facilmente banalizadas, configurando bullying."
+      },
+      {
+        "id": "b",
+        "texto": "Pensar que se o aluno fosse \"mais normal\", as coisas seriam mais fáceis.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Comentários e pensamentos discriminatórios reforçam o preconceito e o capacitismo"
+      },
+      {
+        "id": "c",
+        "texto": "Sentir pena do aluno com NEE, mas não fazer nada.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Grande parte das testemunhas sente simpatia, mas se cala por não saber como agir ou por medo"
+      },
+      {
+        "id": "d",
+        "texto": "Sugerir à professora uma atividade em grupo que force a inclusão desse aluno.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Deve-se zelar pelo respeito às diferenças e atuar para diluir o estigma, promovendo a inclusão"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "situacao": "Você é o alvo: um colega te ameaça dizendo que, se você contar sobre a agressão que sofreu, ele vai te fazer passar vergonha na internet.",
+    "tipoBullying": "virtual",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Obedecer ao agressor e manter o segredo para não ser exposto.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Obedecer ao agressor e manter o segredo para não ser exposto."
+      },
+      {
+        "id": "b",
+        "texto": "Contar imediatamente aos seus pais ou ao coordenador da escola sobre a ameaça, mesmo com medo.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Procurar o responsável ou adulto na escola é a providência imediata. Ameaças psicológicas são bullying e, no virtual, podem ser crime."
+      },
+      {
+        "id": "c",
+        "texto": "Mandar uma mensagem de volta ameaçando o agressor com algo que você sabe dele.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "A retaliação com ameaças intensifica o ciclo de violência e enquadra-se no comportamento agressivo."
+      },
+      {
+        "id": "d",
+        "texto": "A retaliação com ameaças intensifica o ciclo de violência e enquadra-se no comportamento agressivo.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O desinteresse pela escola, a tristeza e o isolamento são indicadores clássicos de que o aluno está sofrendo bullying."
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "situacao": "Um colega que tem dificuldades em Educação Física (EF) é alvo de piadas sobre seu corpo e falta de coordenação toda vez que há aula na quadra.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Rir para disfarçar sua própria insegurança em relação ao esporte.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O medo de se tornar a próxima vítima pode levar o espectador a rir ou apoiar o agressor"
+      },
+      {
+        "id": "b",
+        "texto": "Dizer ao colega que, se ele fosse mais magro/forte, não sofreria isso.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O bullying frequentemente ataca a aparência, o peso (gordofobia) ou a capacidade física."
+      },
+      {
+        "id": "c",
+        "texto": "Defender o colega, afirmando que a EF é para todos se exercitarem, não para humilhar.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "É necessário promover ambientes seguros e inclusivos, especialmente em EF, onde pode ocorrer gordofobia ou exclusão"
+      },
+      {
+        "id": "d",
+        "texto": "Parar de participar das aulas de EF para não ser notado pelos agressores.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Evitar a escola ou atividades escolares (isolamento) é um sintoma de vitimização"
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "situacao": "No recreio, você vê um aluno maior empurrando um colega no chão, fazendo-o sujar o uniforme todo de terra. Outros colegas observam calados.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": " Observar o uniforme sujo e pensar se o agressor o sujou de propósito, como em um ato de humilhação.",
+        "perfil": "vitima-agressora",
+        "correta": true,
+        "explicacao": "Observar e não agir diante de uma agressão física/material (sujar o uniforme) é um risco, sendo importante a intervenção"
+      },
+      {
+        "id": "b",
+        "texto": "Entrar na confusão e empurrar o agressor para defender o colega caído.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Reagir com violência física, mesmo em defesa, pode intensificar o conflito"
+      },
+      {
+        "id": "c",
+        "texto": "Ficar calado e ignorar a situação, achando que é apenas uma briga normal.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O silêncio do espectador reforça a posição do agressor e permite que o bullying continue"
+      },
+      {
+        "id": "d",
+        "texto": "Correr imediatamente e chamar um professor ou funcionário (inspetor).",
+        "perfil": "interventor",
+        "correta": false,
+        "explicacao": "Em casos de agressão física, buscar auxílio de adultos é a atitude mais segura para interromper o comportamento agressivo."
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "situacao": "Um grupo de alunos pega o caderno de um colega e rabisca todas as páginas, depois o devolve sujo e rasgado. O colega guarda o caderno na mochila sem dizer nada.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Achar que o colega está com o material sujo porque ele é desorganizado mesmo.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "É preciso ficar atento aos indícios de material escolar destruído (caneta partida, borracha cortada, folha rabiscada)."
+      },
+      {
+        "id": "b",
+        "texto": "Ajudar o colega a limpar o caderno e conversar com ele para que busque ajuda.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Observar o material escolar danificado e buscar saber o que aconteceu é uma ação de cuidado, pois a vítima guarda o dano por vergonha ou medo."
+      },
+      {
+        "id": "c",
+        "texto": "Perguntar ao colega por que ele deixou o material sujar daquele jeito.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Um professor/adulto deve questionar a razão de material/uniforme estar sujo se o aluno não era assim"
+      },
+      {
+        "id": "d",
+        "texto": "Usar o caderno rabiscado para caçoar dele também.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "A destruição de pertences é uma forma de bullying material usada para dominar e obter prazer em causar danos"
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "situacao": "Um aluno mais velho te força a dar seu dinheiro do lanche, ameaçando te bater no caminho de volta para casa se você não o fizer.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": " Dar o dinheiro e tentar se esconder na saída da escola para não encontrá-lo novamente.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Pedir mais dinheiro aos pais e ter fome ao sair da escola são consequências de ter seu dinheiro tomado."
+      },
+      {
+        "id": "b",
+        "texto": "Ir até o orientador educacional e relatar a extorsão e a ameaça sofrida.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "A extorsão é um tipo de bullying que exige intervenção imediata de adultos. O aluno não deve deixar que essa bola cresça"
+      },
+      {
+        "id": "c",
+        "texto": "Faltar à escola no dia seguinte para evitar o agressor.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O medo de ir à escola e a fobia escolar são sinais de vitimização."
+      },
+      {
+        "id": "d",
+        "texto": "Chamar seus amigos para esperar na saída da escola e \"dar o troco\" no agressor.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "O uso de violência para revidar perpetua o ciclo de agressão e pode levar a conflitos mais sérios"
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "situacao": "Durante uma brincadeira no pátio, um grupo pega o óculos de um colega e joga longe, quebrando-o. O colega chora.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Buscar o professor imediatamente para garantir que o dano material seja reparado e a agressão interrompida.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O bullying material (estragos de objetos) é uma agressão física direta que exige intervenção de um adulto."
+      },
+      {
+        "id": "b",
+        "texto": "Dizer aos agressores que a brincadeira foi sem graça, mas não denunciá-los.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Criticar, mas manter o silêncio, é uma forma de omissão que permite a reincidência."
+      },
+      {
+        "id": "c",
+        "texto": "Juntar os pedaços do óculos e tentar colar sozinho, sem contar a ninguém.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Vítimas muitas vezes escondem a perda frequente ou dano de objetos por vergonha."
+      },
+      {
+        "id": "d",
+        "texto": "Vítimas muitas vezes escondem a perda frequente ou dano de objetos por vergonha.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Retaliação com agressão material ou física é comportamento típico da vítima-agressora."
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "situacao": "Você vê um colega de sala dando um tapa na cabeça de outro e dizendo: \"Isso é para você aprender a ficar quieto.\"",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Achar que o colega agredido devia ter provocado, pois \"ninguém bate à toa\".",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "A agressão física é intencional e não se justifica."
+      },
+      {
+        "id": "b",
+        "texto": "Ficar na sua, pois o agressor é conhecido por ser violento.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O medo de ser a próxima vítima frequentemente faz as testemunhas se calarem"
+      },
+      {
+        "id": "c",
+        "texto": "Aconselhar o colega agredido a começar a fazer aulas de luta para revidar.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Aconselhar a violência como resposta perpetua o ciclo."
+      },
+      {
+        "id": "d",
+        "texto": "Intervir ativamente, dizendo que agressão física é inaceitável e que vai denunciar.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "A intervenção ativa, especialmente contra agressão física direta (tapas, chutes), é essencial para a segurança."
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "situacao": "Um aluno chega à aula com um hematoma no braço e tenta escondê-lo colocando um casaco, apesar do calor.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Comunicar ao professor ou coordenador sobre o machucado, solicitando que observem a situação do aluno.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Machucados ou hematomas no corpo, escondidos sob roupas inadequadas ao clima (gasalho, moletom no calor), são fortes indicadores de bullying."
+      },
+      {
+        "id": "b",
+        "texto": "Perguntar diretamente ao aluno: \"Quem te bateu?\".",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A vítima pode não confiar em você ou ter vergonha de contar. A exposição direta pode ser contraproducente."
+      },
+      {
+        "id": "c",
+        "texto": " Ignorar, pois não é problema seu.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A omissão e a indiferença negligenciam os sinais de sofrimento."
+      },
+      {
+        "id": "d",
+        "texto": "Dizer que a vítima devia ter vergonha de apanhar daquele jeito.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor busca sempre evidenciar o alvo em uma posição de inferioridade."
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "situacao": "Na formação de grupos para um trabalho importante, um colega sempre é deixado de fora, e os líderes dos grupos justificam que ele \"é estranho\" e \"não ajuda\".",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": " Ignorar a exclusão e formar seu grupo sem Mariana.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O isolamento e a exclusão prejudicam a vítima e a omissão do espectador permite que continue."
+      },
+      {
+        "id": "b",
+        "texto": "Sugerir à professora incluir esse colega em seu grupo e garantir que ele participe das tarefas.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "A exclusão social repetida é bullying relacional, que prejudica o senso de pertencimento. A inclusão promove o ambiente escolar saudável."
+      },
+      {
+        "id": "c",
+        "texto": "Dizer que é melhor ele procurar ajuda porque ele tem \"problema social\".",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor utiliza o bullying para prejudicar a posição social da vítima no grupo"
+      },
+      {
+        "id": "d",
+        "texto": "Aceitar fazer o trabalho sozinho, para não ter que se juntar aos grupos que o excluíram.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Explicação não disponível"
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "situacao": "Você percebe que um grupo de meninas está trocando olhares e sussurrando sobre uma colega nova, ignorando-a quando ela tenta se aproximar.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Achar que a colega nova é quem deve se esforçar mais para ser aceita.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O bullying social busca dificultar as relações da vítima com os pares."
+      },
+      {
+        "id": "b",
+        "texto": "Começar a sussurrar sobre outras pessoas para desviar o foco da colega nova.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Usar fofocas ou boatos (agressão indireta) é uma forma de bullying relacional"
+      },
+      {
+        "id": "c",
+        "texto": "Ir até a colega nova, conversar e incluí-la no seu círculo de amizades, rompendo o isolamento.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Fortalecer as amizades e a rede de apoio atua como fator de proteção."
+      },
+      {
+        "id": "d",
+        "texto": " Ficar observando a dinâmica, mas sem se envolver, para não arrumar confusão.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Observar sem agir, por medo ou indiferença, é um comportamento de espectador omisso."
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "situacao": "Um aluno mais velho te força a não brincar mais com seu melhor amigo, ameaçando te excluir do grupo popular dele.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Ficar bravo(a) com o agressor, mas não fazer nada para preservar sua popularidade.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Valorizar o status em detrimento da ética é um risco social."
+      },
+      {
+        "id": "b",
+        "texto": "Aceitar a exclusão, mas ameaçar o agressor de voltar para o grupo se ele não parar.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Ameaça e intimidação são táticas do agressor."
+      },
+      {
+        "id": "c",
+        "texto": "Ceder à pressão e parar de falar com seu melhor amigo.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O isolamento é imposto através de ameaças e coerção."
+      },
+      {
+        "id": "d",
+        "texto": "Falar com o professor sobre a ameaça e a tentativa de isolamento.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Buscar ajuda adulta é vital quando o bullying tenta impor o isolamento e prejudicar as relações de amizade."
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "situacao": "A sala está organizando um passeio e você percebe que um colega está excluído da conversa e parece triste. Você sabe que ele não tem muitos amigos.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Usar o momento de organização para garantir que todos, inclusive o colega isolado, tenham voz na decisão do passeio.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "A escola deve ser um espaço de pertencimento e acolhimento. Práticas como círculos de conversa incentivam o diálogo e o pertencimento."
+      },
+      {
+        "id": "b",
+        "texto": "Dizer aos outros que a culpa da exclusão é do colega por ser anti-social.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor tende a culpar a vítima, reforçando sua posição de poder."
+      },
+      {
+        "id": "c",
+        "texto": "Ficar chateado, mas achar que não tem como ajudar.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O sentimento de impotência é comum na testemunha, que precisa ser capacitada a intervir"
+      },
+      {
+        "id": "d",
+        "texto": "Fingir que não percebeu, pois o colega sempre fica sozinho mesmo.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Naturalizar o isolamento é negligenciar o sofrimento da vítima"
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "situacao": "No grupo de mensagens da turma, Pedro recebe imagens ofensivas editadas pelos colegas. Qual a primeira coisa que você deve fazer ao ver isso? O que você deve aconselhar Pedro a fazer?",
+    "tipoBullying": "virtual",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Responder à mensagem depreciando o agressor para defender Pedro.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "O revide (vítima-agressora) por meio virtual (cyberagressão) é uma reação que intensifica a violência."
+      },
+      {
+        "id": "b",
+        "texto": "Salvar as imagens como prova e aconselhar Pedro a procurar um adulto imediatamente.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Cyberbullying é um tipo de agressão que deve ser denunciada. O apoio adulto e a preservação de provas são cruciais."
+      },
+      {
+        "id": "c",
+        "texto": "Continuar no grupo para ver o que mais vão postar, mas sem comentar.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Permanecer e observar no grupo é ser cúmplice passivo do cyberbullying."
+      },
+      {
+        "id": "d",
+        "texto": "Apagar a mensagem do seu celular e pensar que a culpa é do Pedro por ter tirado fotos estranhas.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor e seus facilitadores tendem a culpar a vítima pela agressão sofrida."
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "situacao": "Um colega que você não gosta está usando um perfil falso para enviar mensagens de ameaça a você, dizendo que sabe onde você mora.",
+    "tipoBullying": "virtual",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Contar a um amigo e pedir para ele bloquear o agressor.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A denúncia deve ser feita a um adulto/autoridade, pois as ameaças são sérias"
+      },
+      {
+        "id": "b",
+        "texto": "Criar um perfil falso também para ameaçar o agressor de volta.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "A retaliação virtual (cyberagressão) não resolve o problema e configura uma escalada de violência."
+      },
+      {
+        "id": "c",
+        "texto": "Procurar seus pais ou o professor para relatar a ameaça e salvar as mensagens como prova.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O cyberbullying (agressão no espaço virtual) é crime e as ameaças exigem a intervenção imediata dos responsáveis."
+      },
+      {
+        "id": "d",
+        "texto": "Desligar o celular e se isolar completamente das redes sociais.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O isolamento é uma consequência do sofrimento."
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "situacao": "Você vê no Instagram um colega postando fotos humilhantes de outro aluno com necessidades especiais, zombando de sua deficiência (capacitismo).",
+    "tipoBullying": "virtual",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Denunciar a postagem usando a ferramenta da rede social e informar um adulto na escola.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O capacitismo é uma forma de discriminação e a denúncia é uma atitude interventiva essencial."
+      },
+      {
+        "id": "b",
+        "texto": "Comentar algo sarcástico na foto, para mostrar que você é \"do contrário\".",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Agressão verbal ou psicológica em busca de status é uma ação agressiva"
+      },
+      {
+        "id": "c",
+        "texto": "Curtir a foto para não ser excluído do grupo que a está elogiando.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Apoiar o agressor, mesmo passivamente, valida o comportamento e legitima o preconceito."
+      },
+      {
+        "id": "d",
+        "texto": "Bloquear o agressor e a vítima para não ter que ver mais o problema.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Bloquear o problema é uma forma de se omitir do papel de interventor positivo."
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "situacao": "Ao comprar lanche, Luiz escuta xingamentos sobre sua cor de pele e escuta a frase \"seus ancestrais eram escravos\". Qual a natureza desta agressão? O que você deve fazer imediatamente?",
+    "tipoBullying": "preconceito",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Defender Luiz publicamente e chamar atenção dos demais, explicando que racismo é crime.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O racismo e a injúria racial são violações graves de direitos. O apoio público quebra o ciclo de humilhação e incentiva o respeito."
+      },
+      {
+        "id": "b",
+        "texto": "Ficar calado, sair da fila e ir embora rapidamente.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O isolamento agrava a tristeza e reforça o poder do agressor."
+      },
+      {
+        "id": "c",
+        "texto": "Retrucar o agressor com xingamento semelhante sobre a aparência dele.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Retrucar perpetua o ciclo de violência e não resolve o problema, podendo agravar a situação."
+      },
+      {
+        "id": "d",
+        "texto": "Dizer a Luiz para ignorar e que \"ele está sendo muito sensível\" com a piada.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Subestimar a gravidade da discriminação é um comportamento típico dos agressores."
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "situacao": "Um grupo de alunos ri e faz comentários maldosos sobre a religião de um colega, dizendo que suas crenças são \"estranhas\" e \"do mal\".",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Promover um Círculo de Conversa com a turma para discutir o valor da diversidade e o respeito a todas as crenças.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O diálogo e o fortalecimento da cultura de paz são essenciais contra a intolerância religiosa e a discriminação."
+      },
+      {
+        "id": "b",
+        "texto": "Achar que religião não deve ser discutida na escola e que o colega deve ter mais discrição.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A omissão reforça a normalização da intolerância."
+      },
+      {
+        "id": "c",
+        "texto": "Entrar na discussão, xingando o colega por causa da sua religião.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Agressões verbais baseadas em preconceito são uma forma de bullying que viola o direito à diversidade."
+      },
+      {
+        "id": "d",
+        "texto": "Defender o colega, mas sentir medo de ser o próximo alvo por se meter.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O espectador pode sentir medo, mas a intervenção é necessária."
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "situacao": "Uma menina com obesidade é chamada de apelidos pejorativos por causa do seu peso (gordofobia) durante a aula de educação física.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Tentar ignorar as piadas e se concentrar no exercício físico.",
+        "perfil": "vitima",
+        "correta": true,
+        "explicacao": "A vítima tende a se retrair e a ter dificuldades em atividades escolares, como EF."
+      },
+      {
+        "id": "b",
+        "texto": "Dizer que a menina precisa emagrecer para que parem de zoar com ela.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "A culpabilização da vítima não é uma atitude construtiva."
+      },
+      {
+        "id": "c",
+        "texto": "Chamar a atenção do agressor para a atitude dele e apoiar a menina, falando que o corpo dela não é assunto de ninguém.",
+        "perfil": "interventor",
+        "correta": false,
+        "explicacao": "A agressão à aparência ou peso é comum. O interventor deve promover o respeito e a inclusão."
+      },
+      {
+        "id": "d",
+        "texto": " Pedir desculpas à menina e dizer que você não sabe como parar o agressor.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Reconhecer o erro sem intervir ativamente é omissão."
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "situacao": "Você é um agressor e, em casa, seu pai frequentemente briga com sua mãe, falando alto e discutindo. Você reproduz essa agressividade na escola.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Bater no seu irmão mais novo ao chegar em casa para aliviar a tensão.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "O agressor pode mostrar agressividade constante, inclusive com irmãos."
+      },
+      {
+        "id": "b",
+        "texto": "Continuar brigando na escola, pois a violência em casa é algo normal e você está apenas se defendendo.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O indivíduo reproduz na escola o que vivencia em casa, e a violência gera violência."
+      },
+      {
+        "id": "c",
+        "texto": "Chorar e se isolar dos amigos na escola, reproduzindo a apatia que vê em casa.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Problemas familiares podem levar a problemas emocionais e isolamento"
+      },
+      {
+        "id": "d",
+        "texto": " Procurar um adulto de confiança (professor, psicólogo) e pedir ajuda para lidar com a raiva e a violência em casa.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O comportamento violento é multifatorial, frequentemente sendo um reflexo de problemas familiares e desestrutura."
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "situacao": "Você é a vítima. Sua mãe insiste que você deve revidar a agressão na próxima vez, em vez de \"ser fraco\", mesmo que o agressor seja maior..",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Levantar a mão e pedir ao professor para mediar uma discussão sobre respeito e diversidade",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Na próxima agressão, você tenta revidar, mesmo sabendo que é mais fraco, e piora a situação."
+      },
+      {
+        "id": "b",
+        "texto": "Explicar a ela o conceito de bullying (agressão repetitiva e desigual) e sugerir que ela procure a escola (professor ou coordenador) para atuar em conjunto.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "A colaboração entre família e escola é vital. Os pais e responsáveis precisam de orientação para identificar vítimas e agressores."
+      },
+      {
+        "id": "c",
+        "texto": "Dizer à sua mãe que você está doente para não ir à escola no dia seguinte.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Medo de ir à escola e sintomas físicos (dores, mal-estar) são formas de somatização da vítima."
+      },
+      {
+        "id": "d",
+        "texto": "Parar de falar sobre a escola com seus pais para que não te pressionem a brigar.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O não contar aos pais é um indicador de que a vítima não confia em seus responsáveis para resolver o problema."
+      }
+    ]
+  },
+  {
+    "id": 26,
+    "situacao": "A escola onde você estuda não tem um programa anti-bullying claro, e os professores não parecem intervir ativamente quando há problemas.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Achar que é melhor resolver os conflitos \"na mão\", já que os professores não ajudam.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "A violência pode ser vista como a única solução quando há omissão dos adultos."
+      },
+      {
+        "id": "b",
+        "texto": " Sugerir à direção a implementação de círculos de conversa e a capacitação de professores em práticas restaurativas.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "A ausência de programas anti-bullying e a falta de intervenção de adultos são fatores de risco. A solução envolve capacitação e práticas restaurativas."
+      },
+      {
+        "id": "c",
+        "texto": " Simplesmente aceitar que a violência faz parte da escola.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A tolerância à violência configura um desafio para a cidadania."
+      },
+      {
+        "id": "d",
+        "texto": "Ficar com medo de ir à escola e pedir aos pais para mudar de colégio.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "A sensação de insegurança e a fobia escolar são consequências graves do bullying."
+      }
+    ]
+  },
+  {
+    "id": 27,
+    "situacao": "Um colega, que é mais rico que a maioria da turma, pratica bullying constante. Pergunta 1: Qual a relação entre status e agressão? Pergunta 2: Como você deve agir?",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Ignorar, pois o agressor tem mais poder na escola.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O desequilíbrio de poder é sustentado por normas sociais (como o status socioeconômico)."
+      },
+      {
+        "id": "b",
+        "texto": "Tentar fazer amizade com o agressor rico para não ser alvo.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Ceder ao poder do agressor por medo de vitimização."
+      },
+      {
+        "id": "c",
+        "texto": "Defender o colega vitimado, reforçando que o status social não dá direito a agredir os outros.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Alunos de maior nível socioeconômico têm maior propensão a praticar bullying, reforçando uma estrutura de dominação."
+      },
+      {
+        "id": "d",
+        "texto": "Reunir um grupo de colegas para intimidar o agressor.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Usar a força do grupo para revidar não resolve a questão de fundo."
+      }
+    ]
+  },
+  {
+    "id": 28,
+    "situacao": "No vestiário da Educação Física, um aluno esconde as roupas de um colega e ri quando ele fica desesperado, atrasando-o para a próxima aula.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Fingir que não viu nada para não se meter em confusão.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Omissão em ambientes pouco supervisionados permite o bullying."
+      },
+      {
+        "id": "b",
+        "texto": "Ajudar o colega a procurar as roupas e depois relatar o incidente de intimidação ao professor de EF.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O bullying (material/psicológico) no vestiário é um local comum e a intervenção imediata de adultos é necessária."
+      },
+      {
+        "id": "c",
+        "texto": "Esperar o agressor sair do vestiário e estragar o material dele.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "A agressão material é uma forma de bullying."
+      },
+      {
+        "id": "d",
+        "texto": "Dizer ao colega para não ser tão lento na hora de se trocar.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor busca causar constrangimento e dano emocional."
+      }
+    ]
+  },
+  {
+    "id": 29,
+    "situacao": "Um grupo de alunos está imitando o jeito de andar e falar de um colega que tem dificuldades motoras (capacitismo), fazendo os outros rirem.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Ir até o colega e sussurrar para ele disfarçar o jeito de andar.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "A vítima, por vergonha, tenta esconder a \"diferença\"."
+      },
+      {
+        "id": "b",
+        "texto": "Sentir vergonha de ser amigo(a) do colega por causa da imitação.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O bullying visa ao isolamento e à vergonha da vítima."
+      },
+      {
+        "id": "c",
+        "texto": "Rir por um momento, mas depois se sentir mal.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Rir, mesmo que brevemente, é um reforço para o agressor."
+      },
+      {
+        "id": "d",
+        "texto": "Interromper a imitação, pedir para pararem e alertar o professor sobre a discriminação.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Ações de discriminação exigem intervenção ativa e o combate ao preconceito."
+      }
+    ]
+  },
+  {
+    "id": 30,
+    "situacao": "Você ouve o professor fazer um comentário irônico e depreciativo sobre um aluno na frente da turma, o que gera risos.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Após a aula, falar individualmente com o professor sobre o impacto negativo do comentário.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Professores devem evitar julgamento público e ironia, pois isso cria um clima hostil e fornece elementos para a \"zombaria repetida\"."
+      },
+      {
+        "id": "b",
+        "texto": "Rir discretamente, achando que o professor estava certo.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O clima de desconfiança e desrespeito é gerado por julgamentos e punições."
+      },
+      {
+        "id": "c",
+        "texto": "Usar o comentário do professor para caçoar do colega mais tarde.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor se apropria do endosso da autoridade para perpetuar a humilhação."
+      },
+      {
+        "id": "d",
+        "texto": "Não participar da aula nos próximos dias por medo de ser o próximo alvo.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "A perda de interesse pela aula é uma consequência do ambiente tenso."
+      }
+    ]
+  },
+  {
+    "id": 31,
+    "situacao": "Seu grupo de amigos combinou de ignorar um colega por uma semana para \"dar uma lição\" nele, porque ele te irritou em um jogo.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Seguir o combinado do grupo para não ser excluído.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O medo de ser excluído leva à omissão e ao reforço do agressor."
+      },
+      {
+        "id": "b",
+        "texto": "Quebrar o combinado de exclusão e conversar com o colega irritante para resolver o conflito pacificamente.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O bullying relacional (isolamento) é intencional e cruel. A solução deve ser o diálogo e a resolução pacífica."
+      },
+      {
+        "id": "c",
+        "texto": "Fazer um post no grupo da turma explicando por que ele está sendo ignorado.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Exposição pública para justificar a exclusão."
+      },
+      {
+        "id": "d",
+        "texto": "Esperar a semana passar para retomar a amizade.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Tolerar a exclusão por tempo determinado."
+      }
+    ]
+  },
+  {
+    "id": 32,
+    "situacao": "Você descobre que um agressor está com baixíssima autoestima, sente-se feio e incapaz, e usa o bullying como forma de se sentir poderoso.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Continuar o evitando, pois o agressor merece se sentir mal.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Perpetuar o ciclo de hostilidade."
+      },
+      {
+        "id": "b",
+        "texto": "Rir quando ele se mostrar vulnerável.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Aproveitar a fraqueza alheia."
+      },
+      {
+        "id": "c",
+        "texto": "Falar com o psicólogo escolar para que o agressor receba o suporte necessário para trabalhar sua autoestima.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Agressores também podem estar em risco e ter baixa autoestima e problemas sociais. O psicólogo é essencial para o bem-estar socioemocional."
+      },
+      {
+        "id": "d",
+        "texto": "Falar sobre a situação com outros amigos para que eles também o evitem.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Reforçar o isolamento social."
+      }
+    ]
+  },
+  {
+    "id": 33,
+    "situacao": "Você vê um colega pegando o lanche de outro à força, no refeitório, e a vítima está claramente triste e com fome.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Achar que isso é \"coisa de criança\" e que a vítima deveria ser mais esperta.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Ignorar ou culpar a vítima."
+      },
+      {
+        "id": "b",
+        "texto": "Fingir que não viu, pois você está com muita pressa para comer.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A omissão reforça a violência."
+      },
+      {
+        "id": "c",
+        "texto": "Dizer ao agressor que você não vai mais emprestar sua caneta.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Reação passiva e ineficaz."
+      },
+      {
+        "id": "d",
+        "texto": "Chamar um funcionário da cantina ou um inspetor para intervir e garantir que o lanche seja devolvido ou reposto.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O roubo de pertences é bullying físico/material. Funcionários têm um papel crucial no monitoramento."
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "situacao": "Na aula de História, um colega faz um comentário depreciativo sobre um grupo social minoritário.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Mandar um bilhete para o colega dizendo que ele é preconceituoso.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Uso de agressão indireta."
+      },
+      {
+        "id": "b",
+        "texto": "Levantar a mão e pedir ao professor para mediar uma discussão sobre respeito e diversidade.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "É papel da escola zelar pelo respeito às diferenças e pelo diálogo, usando o currículo como oportunidade."
+      },
+      {
+        "id": "c",
+        "texto": "Achar que o professor deveria ter punido o colega, mas você não vai se manifestar.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Esperar pela punição (lógica punitiva) em vez de promover o diálogo."
+      },
+      {
+        "id": "d",
+        "texto": "Ficar com medo de que o agressor faça comentários sobre você na próxima aula.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O medo e a insegurança comprometem a frequência escolar e o desenvolvimento."
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "situacao": "Você é um agressor e seus pais têm baixa escolaridade e estão desempregados. Você usa a força para impor respeito na escola.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Parar de ir à escola para evitar as brigas, mesmo sabendo que seus pais não se importam.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Evasão escolar está ligada à falta de ligação com a escola e fatores de vulnerabilidade."
+      },
+      {
+        "id": "b",
+        "texto": "Dizer que a culpa da sua raiva é da sua situação em casa.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Agressores frequentemente não assumem a responsabilidade por suas ações."
+      },
+      {
+        "id": "c",
+        "texto": "Pensar que se você for o \"valentão\" da turma, as pessoas vão te respeitar.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O bullying tem o objetivo de evidenciar o agressor como valentão e lhe dar poder."
+      },
+      {
+        "id": "d",
+        "texto": "Entender que a situação familiar não justifica a violência e procurar um adulto para canalizar sua frustração de forma saudável.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Baixa escolaridade dos pais e baixo nível socioeconômico são fatores de vulnerabilidade social que influenciam o bullying. A intervenção deve ser construtiva."
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "situacao": "Uma colega mais nova está chorando no corredor e, quando você pergunta o que houve, ela diz que alunos mais velhos a intimidaram.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Aconselhar a menina a não chorar na escola, pois isso mostra fraqueza.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Ignorar a tristeza e o choro (sem motivo aparente) é negligenciar um sintoma de bullying."
+      },
+      {
+        "id": "b",
+        "texto": "Acompanhar a menina até o coordenador para que ela possa relatar o ocorrido em um ambiente seguro.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Dar assistência e acolher a vítima é essencial. Não se deve deixar que o sofrimento seja ignorado."
+      },
+      {
+        "id": "c",
+        "texto": "Confrontar os alunos mais velhos.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Exposição a risco desnecessário."
+      },
+      {
+        "id": "d",
+        "texto": "Dizer a ela que a escola é um lugar perigoso e que ela deve ter medo.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Reforçar o medo e a insegurança."
+      }
+    ]
+  },
+  {
+    "id": 37,
+    "situacao": "Um colega tem dificuldade para dormir (insônia) e baixa autoestima e está se envolvendo como agressor.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Sugerir ao professor que encaminhe o aluno ao atendimento psicossocial da escola.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Insônia e baixa autoestima são fatores associados ao envolvimento em bullying. O apoio psicossocial é fundamental."
+      },
+      {
+        "id": "b",
+        "texto": "Não se preocupar, pois ele parece forte o suficiente para se virar sozinho.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "ESubestimar os fatores de risco individuais."
+      },
+      {
+        "id": "c",
+        "texto": "Achar que ele só precisa de mais exercícios e punição.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O bullying deve ser tratado com diálogo e responsabilidade, não apenas punição."
+      },
+      {
+        "id": "d",
+        "texto": "Evitar a convivência com ele.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Isolar-se é uma reação comum ao conflito."
+      }
+    ]
+  },
+  {
+    "id": 38,
+    "situacao": "Você vê um aluno chorando sem motivo aparente na sala de aula. Ele não quer falar o que aconteceu.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Dizer para ele parar de chorar porque é \"coisa de bebê\".",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Uso de agressão verbal/emocional."
+      },
+      {
+        "id": "b",
+        "texto": "Deixar ele chorar, achando que é ansiedade ou depressão.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Muitas vezes não é depressão ou ansiedade, mas sim o sofrimento de bullying que precisa ser investigado."
+      },
+      {
+        "id": "c",
+        "texto": "Chamar um adulto para conversar com o aluno em um ambiente reservado.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Tristeza e choro sem motivo são fortes indicativos de que o aluno está sofrendo bullying."
+      },
+      {
+        "id": "d",
+        "texto": "Tentar distraí-lo com uma piada.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Ignorar a causa raiz do sofrimento."
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "situacao": "No trajeto para a escola, você e outros alunos enfrentam assaltos recorrentes, o que gera medo e faz com que muitos faltem às aulas.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Continuar indo à escola, mas sempre com medo e ansiedade.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O medo no trajeto é um fator de insegurança que afeta o desenvolvimento."
+      },
+      {
+        "id": "b",
+        "texto": "Sugerir à escola que crie um canal de denúncia anônima e solicite rondas especializadas para o entorno.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Violência no entorno afeta a segurança e a frequência escolar. Ações como rondas e canais de denúncia são estratégias de proteção."
+      },
+      {
+        "id": "c",
+        "texto": "Faltar às aulas, já que a violência externa não é responsabilidade da escola.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A evasão ou abandono escolar são consequências da insegurança no trajeto."
+      },
+      {
+        "id": "d",
+        "texto": "Andar armado (se fosse possível) para se proteger.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "A presença de armas contribui para a naturalização das violências."
+      }
+    ]
+  },
+  {
+    "id": 40,
+    "situacao": "Um aluno que usa gorro e casaco em pleno calor está sendo alvo de piadas sobre sua aparência.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Dizer ao aluno que ele está chamando atenção e por isso está sofrendo bullying.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Culpabilizar a vítima."
+      },
+      {
+        "id": "b",
+        "texto": "Conversar com o aluno para entender por que ele usa essas roupas e se ele está tentando esconder agressões.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O uso de gorro ou casaco em calor insuportável para esconder agressões ou marcas é um indicador de bullying"
+      },
+      {
+        "id": "c",
+        "texto": "Achar que é estranho, mas não questionar.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Não ficar atento aos indícios."
+      },
+      {
+        "id": "d",
+        "texto": "Jogar água no agressor para que ele se molhe e pare de incomodar.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Agressão física (indireta) como revide."
+      }
+    ]
+  },
+  {
+    "id": 41,
+    "situacao": "Você é a vítima e, quando tenta falar com o professor, ele diz que você está \"exagerando\" e que é \"coisa de criança\".",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Procurar o coordenador pedagógico ou o diretor, e se não resolver, falar com seus pais para que busquem a direção.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Se o professor não tomar providência, deve-se procurar o coordenador, o diretor ou os pais. Alguém tem que tomar uma providência."
+      },
+      {
+        "id": "b",
+        "texto": "Desistir de falar e aguentar o bullying calado.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Não resolver o problema, deixando a \"bola crescer\"."
+      },
+      {
+        "id": "c",
+        "texto": "Fazer uma reclamação pública sobre o professor.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Gerar um conflito institucional."
+      },
+      {
+        "id": "d",
+        "texto": "Aceitar a opinião do professor e não se preocupar mais.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "A omissão do adulto é um problema que reforça a banalização da violência."
+      }
+    ]
+  },
+  {
+    "id": 42,
+    "situacao": "Em uma roda de conversa promovida pela escola, um colega expressa que sente que não tem ninguém para contar seus problemas.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Achar que isso é um problema pessoal dele e não se manifestar.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "39,2% das escolas não oferecem espaços de escuta, o que é um risco."
+      },
+      {
+        "id": "b",
+        "texto": "Contar para todos que ele está com problemas de confiança.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "Expor a vulnerabilidade do colega."
+      },
+      {
+        "id": "c",
+        "texto": "Oferecer-se para ser um amigo ouvinte e incentivar a criação de um canal de escuta na escola.",
+        "perfil": "espectador",
+        "correta": true,
+        "explicacao": "O sentimento de \"não poder contar com ninguém\" indica baixa autoestima e isolamento. Espaços de escuta são fundamentais."
+      },
+      {
+        "id": "d",
+        "texto": "Sugerir que ele apenas confie mais nos pais.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Muitas vezes, a vítima não confia na mãe e no pai."
+      }
+    ]
+  },
+  {
+    "id": 43,
+    "situacao": "Você é um aluno que se sente muito sozinho na escola e não tem amigos para brincar no recreio.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Ficar sozinho, aceitando que ninguém quer sua companhia.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "36,4% dos meninos e 61,5% das meninas relataram já ter se sentido sozinhos."
+      },
+      {
+        "id": "b",
+        "texto": "Fazer um desenho sobre como você odeia o recreio.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Cerca de 33% dos alunos afirmam odiar ou gostar mais ou menos do recreio."
+      },
+      {
+        "id": "c",
+        "texto": "Ir brigar com o grupo mais forte para ser notado.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Uso de agressividade para lutar contra a exclusão e buscar atenção."
+      },
+      {
+        "id": "d",
+        "texto": "Procurar um professor ou orientador para pedir ajuda para se integrar à turma e criar novas relações.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O isolamento é um forte indicador de vitimização. O interventor busca apoio."
+      }
+    ]
+  },
+  {
+    "id": 44,
+    "situacao": "No recreio, os alunos só querem saber de \"lutas e empurrões\", e você não gosta desse tipo de brincadeira agressiva.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Organizar um grupo para sugerir novas brincadeiras mais pacíficas e inclusivas no recreio.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Um elevado número de alunos (61,1% de meninos e 76,4% de meninas) afirma que os colegas só gostam de brincar de lutas e empurrões, sendo necessário promover atividades alternativas."
+      },
+      {
+        "id": "b",
+        "texto": "Achar que o recreio é um lugar ruim e ficar na sala durante o intervalo.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "O recreio pode ser um local de violência e insegurança."
+      },
+      {
+        "id": "c",
+        "texto": "Entrar na brincadeira de lutas, mesmo não gostando, para não ser excluído.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Ceder à pressão social."
+      },
+      {
+        "id": "d",
+        "texto": "Reclamar do recreio para o professor, mas sem propor soluções.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Reclamação passiva."
+      }
+    ]
+  },
+  {
+    "id": 45,
+    "situacao": "Você vê um colega que é muito amigo de um agressor, mas que, no fundo, sente simpatia pelas vítimas.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Dizer ao amigo que ele é fraco por não defender a vítima.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Julgamento e depreciação."
+      },
+      {
+        "id": "b",
+        "texto": "Não interferir, pois o agressor é o líder do grupo.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "O medo de perder o status é um fator de omissão."
+      },
+      {
+        "id": "c",
+        "texto": "Conversar com esse amigo, incentivando-o a usar sua influência para apoiar a vítima e interromper a agressão.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O Interventor Positivo busca apoio de pares (testemunhas) para romper a dinâmica do agressor."
+      },
+      {
+        "id": "d",
+        "texto": "Esperar que o agressor mude sozinho.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A omissão permite que a violência continue."
+      }
+    ]
+  },
+  {
+    "id": 46,
+    "situacao": "Um aluno com notas altas está sendo provocado por um grupo que o chama de \"nerd\" e tenta fazê-lo errar questões em público.",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Dizer ao professor que o aluno está tentando se exibir.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "A busca por poder e status do agressor."
+      },
+      {
+        "id": "b",
+        "texto": "Evitar responder a perguntas difíceis para não atrair a atenção do grupo.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Auto-silenciamento e medo de falar em aula."
+      },
+      {
+        "id": "c",
+        "texto": "Achar que o aluno deveria estudar menos para ser mais popular.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "O agressor busca desvalorizar o desempenho para reafirmar o domínio."
+      },
+      {
+        "id": "d",
+        "texto": "Defender o aluno, afirmando que boas notas são valorizadas e não devem ser motivo de humilhação.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O bullying ataca o desempenho acadêmico, o que pode levar à diminuição da performance."
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "situacao": "Você é um professor e vê o início de uma gozação na sala de aula durante a escolha do representante de turma (um aluno sem votos).",
+    "tipoBullying": "verbal",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Punir imediatamente os alunos que riram com suspensão.",
+        "perfil": "agressor",
+        "correta": false,
+        "explicacao": "A Lei 13.185/2015 incentiva evitar a punição, privilegiando mecanismos alternativos para mudança de comportamento."
+      },
+      {
+        "id": "b",
+        "texto": "Cortar imediatamente a risada e exaltar o aluno que se candidatou, valorizando sua coragem.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "O professor deve podar essa atitude em sala de aula, exaltando quem enfrentou a situação, para que o bullying não se desenvolva."
+      },
+      {
+        "id": "c",
+        "texto": "Achar que o aluno precisa aprender a lidar com o fracasso.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Banalizar a violência."
+      },
+      {
+        "id": "d",
+        "texto": "Deixar o assunto morrer, para não atrapalhar a aula.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Omissão em sala de aula."
+      }
+    ]
+  },
+  {
+    "id": 48,
+    "situacao": "Seu amigo está faltando às aulas sem permissão dos pais (gazear) e se envolvendo com uso de drogas e você sabe que ele também pratica bullying na escola.",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Faltar junto com ele, pois ele é seu amigo.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Reforçar o comportamento desviante."
+      },
+      {
+        "id": "b",
+        "texto": "Achar que ele está apenas se divertindo e que \"dar uns pegas\" é normal.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Subestimar o risco."
+      },
+      {
+        "id": "c",
+        "texto": "Ameaçá-lo de contar aos pais dele se ele não parar de praticar bullying.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Ameaça/chantagem como forma de controle."
+      },
+      {
+        "id": "d",
+        "texto": "Procurar o orientador para que a escola articule o apoio de saúde e assistência social, alertando sobre os fatores de risco.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Uso de drogas e faltar às aulas sem permissão são fatores associados ao bullying. É necessária uma abordagem intersetorial (saúde/educação/assistência)."
+      }
+    ]
+  },
+  {
+    "id": 49,
+    "situacao": "Você é a vítima e, além de ser agredido na escola, sofre agressão física em casa. Você se sente em total solidão.",
+    "tipoBullying": "fisico",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Achar que você merece apanhar, pois se sente incapaz.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "Baixa autoestima e senso de incapacidade são consequências do bullying."
+      },
+      {
+        "id": "b",
+        "texto": "Conversar com o psicólogo ou um adulto da rede de proteção (Conselho Tutelar, Disque 100) para relatar as violências em casa e na escola.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "Sofrer agressão física familiar e solidão são fatores de risco graves associados à vitimização. A rede de proteção deve ser acionada."
+      },
+      {
+        "id": "c",
+        "texto": "Tentar agredir outros colegas mais fracos para sentir algum poder.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "A vítima-agressora transfere o abuso."
+      },
+      {
+        "id": "d",
+        "texto": "Manter a solidão, pois você não pode confiar em ninguém.",
+        "perfil": "vitima",
+        "correta": false,
+        "explicacao": "A baixa confiança impede a busca por ajuda."
+      }
+    ]
+  },
+  {
+    "id": 50,
+    "situacao": "Após a intervenção de um professor, um agressor fica quieto e chateado. O professor diz que provocar bullying é crime, baseado na nova legislação (Lei 14.811/2024).",
+    "tipoBullying": "relacional",
+    "alternativas": [
+      {
+        "id": "a",
+        "texto": "Sentir que agora o professor é muito autoritário.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "A intervenção legal visa a proteção e a responsabilização."
+      },
+      {
+        "id": "b",
+        "texto": "Dizer ao agressor que ele se deu mal e zombar dele pela ameaça legal.",
+        "perfil": "vitima-agressora",
+        "correta": false,
+        "explicacao": "Revidar com zombaria intensifica a humilhação."
+      },
+      {
+        "id": "c",
+        "texto": "Achar que a lei não vai se aplicar a menores de idade.",
+        "perfil": "espectador",
+        "correta": false,
+        "explicacao": "Os responsáveis respondem se o aluno menor de idade for processado."
+      },
+      {
+        "id": "d",
+        "texto": "Sentir-se aliviado e observar se o agressor demonstra mudança de comportamento e responsabilidade.",
+        "perfil": "interventor",
+        "correta": true,
+        "explicacao": "A nova legislação (Lei 14.811/2024) configura o bullying como crime, e a conscientização dos alunos sobre isso é fundamental."
+      }
+    ]
+  }
+]

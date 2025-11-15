@@ -52,7 +52,7 @@ const PartialScoreModal = ({ gameData, onClose, onNavigate }) => {
               </div>
               <div className="space-y-3 text-lg">
                 <div className="flex justify-between"><span>Pontos:</span> <span className="font-bold text-yellow-300">{player.score}</span></div>
-                <div className="flex justify-between"><span>Posição:</span> <span className="font-bold">{player.position}/20</span></div>
+                <div className="flex justify-between"><span>Posição:</span> <span className="font-bold">{player.position}/50</span></div>
                 <div className="flex justify-between"><span>Acertos:</span> <span className="font-bold text-green-300">{player.answers.filter(a => a.correct).length}/{player.answers.length}</span></div>
               </div>
             </div>

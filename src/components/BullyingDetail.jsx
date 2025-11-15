@@ -10,7 +10,7 @@ const BullyingDetail = ({ type, onBack }) => {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       exit={{ opacity: 0 }}
-      className="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-4"
+      className="fixed inset-0 bg-black/70 backdrop-blur-sm z-50 flex items-center justify-center p-2 sm:p-4"
       onClick={onBack}
     >
       <motion.div
@@ -18,35 +18,35 @@ const BullyingDetail = ({ type, onBack }) => {
         animate={{ scale: 1, opacity: 1 }}
         exit={{ scale: 0.8, opacity: 0 }}
         onClick={(e) => e.stopPropagation()}
-        className="glass-effect rounded-3xl p-8 max-w-4xl w-full shadow-2xl border-2 border-white/20 max-h-[90vh] overflow-y-auto"
+        className="glass-effect rounded-2xl sm:rounded-3xl p-4 sm:p-6 md:p-8 max-w-4xl w-full shadow-2xl border-2 border-white/20 max-h-[95vh] sm:max-h-[90vh] overflow-y-auto"
       >
         <Button
           onClick={onBack}
           variant="ghost"
-          className="mb-6 bg-white/10 hover:bg-white/20 text-white"
+          className="mb-4 sm:mb-6 bg-white/10 hover:bg-white/20 text-white text-sm sm:text-base"
         >
-          <ArrowLeft className="mr-2" size={20} />
+          <ArrowLeft className="mr-2" size={18} />
           Voltar
         </Button>
 
-        <div className="text-center mb-8">
-          <div className="text-8xl mb-4">{type.icon}</div>
-          <h1 className={`text-5xl font-black mb-4 bg-gradient-to-r ${type.color} bg-clip-text text-transparent`}>
+        <div className="text-center mb-6 sm:mb-8">
+          <div className="text-5xl sm:text-6xl md:text-8xl mb-3 sm:mb-4">{type.icon}</div>
+          <h1 className={`text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-black mb-3 sm:mb-4 bg-gradient-to-r ${type.color} bg-clip-text text-transparent`}>
             {type.title}
           </h1>
         </div>
 
-        <div className="space-y-8">
+        <div className="space-y-4 sm:space-y-6 md:space-y-8">
           {/* Causas */}
           <motion.div
             initial={{ y: 20, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.2 }}
-            className="bg-red-500/20 rounded-2xl p-6 border-2 border-red-400/30"
+            className="bg-red-500/20 rounded-xl sm:rounded-2xl p-4 sm:p-6 border-2 border-red-400/30"
           >
-            <div className="flex items-center gap-3 mb-4">
-              <AlertCircle className="text-red-300" size={32} />
-              <h2 className="text-3xl font-bold text-white">Possíveis Causas</h2>
+            <div className="flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4">
+              <AlertCircle className="text-red-300" size={24} />
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-white">Possíveis Causas</h2>
             </div>
             <ul className="space-y-3">
               {type.causes.map((cause, index) => (
@@ -55,9 +55,9 @@ const BullyingDetail = ({ type, onBack }) => {
                   initial={{ x: -20, opacity: 0 }}
                   animate={{ x: 0, opacity: 1 }}
                   transition={{ delay: 0.3 + index * 0.1 }}
-                  className="flex items-start gap-3 text-white/90 text-lg"
+                  className="flex items-start gap-2 sm:gap-3 text-white/90 text-sm sm:text-base md:text-lg"
                 >
-                  <span className="text-red-300 font-bold mt-1">•</span>
+                  <span className="text-red-300 font-bold mt-1 flex-shrink-0">•</span>
                   <span>{cause}</span>
                 </motion.li>
               ))}
@@ -69,11 +69,11 @@ const BullyingDetail = ({ type, onBack }) => {
             initial={{ y: 20, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.4 }}
-            className="bg-orange-500/20 rounded-2xl p-6 border-2 border-orange-400/30"
+            className="bg-orange-500/20 rounded-xl sm:rounded-2xl p-4 sm:p-6 border-2 border-orange-400/30"
           >
-            <div className="flex items-center gap-3 mb-4">
-              <Heart className="text-orange-300" size={32} />
-              <h2 className="text-3xl font-bold text-white">Consequências</h2>
+            <div className="flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4">
+              <Heart className="text-orange-300" size={24} />
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-white">Consequências</h2>
             </div>
             <ul className="space-y-3">
               {type.consequences.map((consequence, index) => (
@@ -82,9 +82,9 @@ const BullyingDetail = ({ type, onBack }) => {
                   initial={{ x: -20, opacity: 0 }}
                   animate={{ x: 0, opacity: 1 }}
                   transition={{ delay: 0.5 + index * 0.1 }}
-                  className="flex items-start gap-3 text-white/90 text-lg"
+                  className="flex items-start gap-2 sm:gap-3 text-white/90 text-sm sm:text-base md:text-lg"
                 >
-                  <span className="text-orange-300 font-bold mt-1">•</span>
+                  <span className="text-orange-300 font-bold mt-1 flex-shrink-0">•</span>
                   <span>{consequence}</span>
                 </motion.li>
               ))}
@@ -96,11 +96,11 @@ const BullyingDetail = ({ type, onBack }) => {
             initial={{ y: 20, opacity: 0 }}
             animate={{ y: 0, opacity: 1 }}
             transition={{ delay: 0.6 }}
-            className="bg-green-500/20 rounded-2xl p-6 border-2 border-green-400/30"
+            className="bg-green-500/20 rounded-xl sm:rounded-2xl p-4 sm:p-6 border-2 border-green-400/30"
           >
-            <div className="flex items-center gap-3 mb-4">
-              <Shield className="text-green-300" size={32} />
-              <h2 className="text-3xl font-bold text-white">Como Prevenir</h2>
+            <div className="flex items-center gap-2 sm:gap-3 mb-3 sm:mb-4">
+              <Shield className="text-green-300" size={24} />
+              <h2 className="text-xl sm:text-2xl md:text-3xl font-bold text-white">Como Prevenir</h2>
             </div>
             <ul className="space-y-3">
               {type.prevention.map((prevention, index) => (
@@ -109,9 +109,9 @@ const BullyingDetail = ({ type, onBack }) => {
                   initial={{ x: -20, opacity: 0 }}
                   animate={{ x: 0, opacity: 1 }}
                   transition={{ delay: 0.7 + index * 0.1 }}
-                  className="flex items-start gap-3 text-white/90 text-lg"
+                  className="flex items-start gap-2 sm:gap-3 text-white/90 text-sm sm:text-base md:text-lg"
                 >
-                  <span className="text-green-300 font-bold mt-1">✓</span>
+                  <span className="text-green-300 font-bold mt-1 flex-shrink-0">✓</span>
                   <span>{prevention}</span>
                 </motion.li>
               ))}
@@ -128,7 +128,7 @@ const BullyingDetail = ({ type, onBack }) => {
           <Button
             onClick={onBack}
             size="lg"
-            className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold px-8 py-6 rounded-full shadow-xl"
+            className="bg-gradient-to-r from-purple-500 to-pink-500 hover:from-purple-600 hover:to-pink-600 text-white font-bold px-6 sm:px-8 py-4 sm:py-6 rounded-full shadow-xl text-sm sm:text-base w-full sm:w-auto"
           >
             Continuar
           </Button>
